@@ -13,7 +13,8 @@
     <section>
       <article>
         <div>
-          <h2>Well... I'm Python Jr Dev.</h2>
+          <h2>About Me:</h2>
+          <p>Well... I'm Python Jr Dev.</p>
         <div>
       </article>
     </section>
