@@ -3,12 +3,11 @@
 <html>
 
   <head>
-    <styles>
-      h1 {}
-    </styles>
   </head>
   <body>
-    <h1>Hi!!! Hello Friend!!</h1>
+    <header>
+      <h1>Hi!!! Hello Friend!!</h1>
+    </header>
   </body>
 
 </html>
