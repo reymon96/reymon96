@@ -4,9 +4,7 @@
 
   <head>
     <styles>
-      body {
-        background-color:red;
-      }
+      h1 {}
     </styles>
   </head>
   <body>
