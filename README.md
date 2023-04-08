@@ -3,11 +3,11 @@
 <html>
 
   <head>
-    <style>
+    <styles>
       body {
         background-color:red;
       }
-    </style>
+    </styles>
   </head>
   <body>
     <h1>Hi!!! Hello Friend!!</h1>
